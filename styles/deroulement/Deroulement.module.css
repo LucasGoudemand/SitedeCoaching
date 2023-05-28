@@ -1,0 +1,47 @@
+.containerDeroulement {
+  max-width: 1300px;
+  margin-top: 200px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.containerDeroulement h3 {
+  margin-bottom: 50px;
+  text-align: center;
+  font-size: 40px;
+}
+.containerDeroulement h4 {
+  margin-top: 50px;
+  text-align: center;
+  font-size: 25px;
+}
+.ulClass strong {
+  background-color: #fb9a08;
+}
+.ulClass li {
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+@media all and (max-width: 1299px) and (min-width: 700px) {
+  .containerDeroulement h3 {
+    font-size: 3vw;
+  }
+  .containerDeroulement h4 {
+    font-size: 3vw;
+  }
+
+  .ulClass li {
+    font-size: 1.4vw;
+  }
+}
+@media all and (max-width: 699px) and (min-width: 375px) {
+  .containerDeroulement h3 {
+    font-size: 15px;
+  }
+  .containerDeroulement h4 {
+    font-size: 15px;
+  }
+
+  .ulClass li {
+    font-size: 10px;
+  }
+}

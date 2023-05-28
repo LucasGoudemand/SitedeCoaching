@@ -1,0 +1,17 @@
+.containerText {
+  flex: 30%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+@media all and (min-width: 1300px) {
+}
+@media all and (max-width: 1299px) and (min-width: 700px) {
+}
+@media all and (max-width: 699px) and (min-width: 375px) {
+  .containerText {
+    flex: 0;
+    align-items: center;
+  }
+}

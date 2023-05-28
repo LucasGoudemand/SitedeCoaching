@@ -1,0 +1,44 @@
+.containerApropos {
+  display: flex;
+  max-width: 1400px;
+  gap: 80px;
+  margin-top: 100px;
+}
+.text h2 {
+  color: #fb9a08;
+}
+.text h3 {
+  font-size: 40px;
+}
+.text p {
+  font-size: 20px;
+  margin-top: 50px;
+}
+@media (max-width: 1300px) {
+  .classImage {
+    width: 50vw;
+    height: 70vw;
+  }
+
+  .text h3 {
+    font-size: 2vw;
+  }
+  .text p {
+    font-size: 1.3vw;
+    margin-top: 2vw;
+  }
+  .containerApropos {
+    gap: 3vw;
+  }
+}
+@media all and (max-width: 1299px) and (min-width: 700px) {
+}
+@media all and (max-width: 699px) and (min-width: 375px) {
+  .button {
+    font-size: 10px;
+    margin-top: 20px;
+  }
+  .button span {
+    font-size: 10px;
+  }
+}

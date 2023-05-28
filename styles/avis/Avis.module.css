@@ -1,0 +1,22 @@
+.containerOfOneAvis {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  max-width: 20%;
+  border-radius: 25px;
+  padding: 20px;
+}
+.containerStars span {
+  color: #fb9a08;
+  fill: aqua;
+}
+@media all and (max-width: 1000px) and (min-width: 700px) {
+  .containerOfOneAvis {
+    max-width: 40%;
+  }
+}
+@media all and (max-width: 699px) and (min-width: 375px) {
+  .containerOfOneAvis {
+    max-width: 70%;
+  }
+}

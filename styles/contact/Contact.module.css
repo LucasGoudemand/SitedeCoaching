@@ -1,0 +1,18 @@
+.containerContact {
+  text-align: center;
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.containerContact h1 {
+  font-size: 40px;
+}
+.containerContact p {
+  font-size: 40px;
+  color: #fb9a08;
+  margin-top: 50px;
+}
+.containerContact h2 {
+  font-size: 40px;
+}

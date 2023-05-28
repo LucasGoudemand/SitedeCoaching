@@ -1,0 +1,12 @@
+.Img {
+  width: 50px;
+  margin-right: 20px;
+}
+.containerTag {
+  display: flex;
+  align-items: center;
+  padding: 10px 20px 10px 20px;
+  border-radius: 20px;
+  background-color: white;
+  position: absolute;
+}
