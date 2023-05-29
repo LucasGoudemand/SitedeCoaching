@@ -1,5 +1,5 @@
 import styles from "../../../styles/heropage/TitleheroPage.module.css";
-import Button from "../button/button";
+import ButtonHeroPage from "../button/buttonHeroPage";
 
 export default function TitleHeroPage() {
   return (
@@ -10,10 +10,12 @@ export default function TitleHeroPage() {
           Embarquez pour un voyage de découverte de soi et de transformation
           personnelle
         </p>
-        <Button href="#AproposAnchor">
-          Découvrir
-          <span className="material-symbols-outlined">arrow_downward</span>
-        </Button>
+        <ButtonHeroPage
+          Title="Découvrir"
+          Icon={
+            <span className="material-symbols-outlined">arrow_downward</span>
+          }
+        ></ButtonHeroPage>
       </div>
     </>
   );

@@ -13,11 +13,12 @@ export default function Offre(props) {
           <li>{props.Value3}</li>
           <li>{props.Value4}</li>
         </ul>
-
-        <Button href="https://www.crenolib.fr/prendre-rdv/79586_praticiennne-en-hypnose-ericksonienne-et-coach">
-          Découvrir
-          <span className="material-symbols-outlined">arrow_downward</span>
-        </Button>
+        <Button
+          Title="Découvrir"
+          Icon={
+            <span className="material-symbols-outlined">arrow_downward</span>
+          }
+        ></Button>
       </div>
     </>
   );

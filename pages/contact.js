@@ -1,7 +1,7 @@
 import Head from "next/head";
 import HeaderContact from "../pages/components/header/headerContact";
 import styles from "../styles/contact/Contact.module.css";
-import Button from "./components/button/button";
+import Button from "../pages/components/button/button";
 
 export default function Contact() {
   return (
@@ -19,10 +19,14 @@ export default function Contact() {
         <section>
           <div className={styles.containerContact}>
             <h1>Reservez votre coaching avec Crénolib</h1>
-            <Button href="https://www.crenolib.fr/prendre-rdv/79586_praticiennne-en-hypnose-ericksonienne-et-coach">
-              Crénolib
-              <span className="material-symbols-outlined">arrow_downward</span>
-            </Button>
+            <Button
+              Title="Crénolib"
+              Icon={
+                <span className="material-symbols-outlined">
+                  arrow_downward
+                </span>
+              }
+            ></Button>
             <p>OU</p>
             <h2>Laissez moi un méssage</h2>
           </div>
