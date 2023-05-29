@@ -12,14 +12,14 @@
 .containerDeroulement h4 {
   margin-top: 50px;
   text-align: center;
-  font-size: 25px;
+  font-size: 20px;
 }
 .ulClass strong {
   background-color: #fb9a08;
 }
 .ulClass li {
   margin-bottom: 10px;
-  font-size: 20px;
+  font-size: 15px;
 }
 @media all and (max-width: 1299px) and (min-width: 700px) {
   .containerDeroulement h3 {

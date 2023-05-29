@@ -9,8 +9,8 @@ export default function containerApropos() {
           src="/zenimage.png"
           alt="Photo d'illustration"
           className={styles.classImage}
-          width={700}
-          height={1000}
+          width={600}
+          height={800}
         />
         <div className={styles.text}>
           <h2>A propos</h2>
