@@ -9,31 +9,31 @@ export default function containerAvis(props) {
         <div className={styles.containerForAllAvis}>
           <Avis
             Name="Crystel"
-            AvisText="J'adore le coaching de Marine, elle a pris le temps de m'expliquer les choses et j'en suis changé c'est un vrai délice comme les danettes au chocolat"
+            AvisText="J'adore le coaching de Marine, elle a pris le temps de m'expliquer les choses et j'en suis changé "
           />
           <Avis
             Name="Crystel"
-            AvisText="J'adore le coaching de Marine, elle a pris le temps de m'expliquer les choses et j'en suis changé c'est un vrai délice comme les danettes au chocolat"
+            AvisText="J'adore le coaching de Marine, elle a pris le temps de m'expliquer les choses et j'en suis changé "
           />
           <Avis
             Name="Crystel"
-            AvisText="J'adore le coaching de Marine, elle a pris le temps de m'expliquer les choses et j'en suis changé c'est un vrai délice comme les danettes au chocolat"
+            AvisText="J'adore le coaching de Marine, elle a pris le temps de m'expliquer les choses et j'en suis changé "
           />
           <Avis
             Name="Crystel"
-            AvisText="J'adore le coaching de Marine, elle a pris le temps de m'expliquer les choses et j'en suis changé c'est un vrai délice comme les danettes au chocolat"
+            AvisText="J'adore le coaching de Marine, elle a pris le temps de m'expliquer les choses et j'en suis changé "
           />
           <Avis
             Name="Crystel"
-            AvisText="J'adore le coaching de Marine, elle a pris le temps de m'expliquer les choses et j'en suis changé c'est un vrai délice comme les danettes au chocolat"
+            AvisText="J'adore le coaching de Marine, elle a pris le temps de m'expliquer les choses et j'en suis changé "
           />
           <Avis
             Name="Crystel"
-            AvisText="J'adore le coaching de Marine, elle a pris le temps de m'expliquer les choses et j'en suis changé c'est un vrai délice comme les danettes au chocolat"
+            AvisText="J'adore le coaching de Marine, elle a pris le temps de m'expliquer les choses et j'en suis changé "
           />
           <Avis
             Name="Crystel"
-            AvisText="J'adore le coaching de Marine, elle a pris le temps de m'expliquer les choses et j'en suis changé c'est un vrai délice comme les danettes au chocolat"
+            AvisText="J'adore le coaching de Marine, elle a pris le temps de m'expliquer les choses et j'en suis changé "
           />
         </div>
       </div>
