@@ -10,7 +10,7 @@ export default function containerDescription() {
           <p>
             L’hypnose Ericksonnienne et la Programmation Neuro-Linguistique sont
             mes deux outils de predilection pour pour vous permetre d’être enfin
-            vous même et de vivre votre véritable vie.
+            vous même et de vivre votre véritable vie !
           </p>
         </div>
         <div className={styles.containerBlock}>

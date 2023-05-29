@@ -9,7 +9,7 @@ export default function DescriptionBlock(props) {
           width={400}
           height={250}
           src={props.ImageBlock}
-          alt="Photo d'un block'"
+          alt="Photo d'un block oui'"
           className={styles.blockImage}
         />
         <div className={styles.TextBlock}>
