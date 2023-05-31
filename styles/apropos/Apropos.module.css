@@ -11,11 +11,15 @@
   font-size: 40px;
 }
 .text p {
-  font-size: 15px;
+  font-size: 14.5px;
   margin-top: 25px;
 }
 .text {
   max-width: 500px;
+}
+.Souligne {
+  background-color: #fb9a08;
+  font-weight: 500;
 }
 @media (max-width: 1300px) {
   .classImage {

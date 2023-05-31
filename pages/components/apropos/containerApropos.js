@@ -28,13 +28,19 @@ export default function containerApropos() {
             devenues des obstacles entravant mon potentiel et ma croissance
             personnelle. Perdue et déconnectée de ma véritable essence, j'ai
             ressenti le besoin urgent de changement, de guérison et d'évolution
-            pour devenir la meilleure version de moi-même. C'est alors que j'ai
-            découvert l'extraordinaire pouvoir transformateur du coaching
-            professionnel et de l'hypnose.
+            pour devenir{" "}
+            <strong className={styles.Souligne}>
+              la meilleure version de moi-même
+            </strong>
+            . C'est alors que j'ai découvert l'extraordinaire pouvoir
+            transformateur du coaching professionnel et de l'hypnose.
           </p>
           <p>
             {" "}
-            Ces outils m'ont fascinée en leur capacité à révéler les potentiels
+            Ces outils m'ont fascinée en leur capacité à{" "}
+            <strong className={styles.Souligne}>
+              révéler les potentiels
+            </strong>{" "}
             les plus profonds des individus, en débloquant des parties de
             moi-même négligées ou oubliées. Ils ont radicalement transformé ma
             perception de moi-même et du monde qui m'entoure. Mon voyage de
@@ -44,13 +50,15 @@ export default function containerApropos() {
           <p>
             Désormais, je consacre ma vie à aider les autres à surmonter leurs
             propres défis et à réaliser leur plein potentiel. Mon objectif est
-            de vous guider à travers les tempêtes de la vie, de vous fournir les
-            outils nécessaires pour devenir la meilleure version de vous-même et
-            de vous reconnecter à votre essence véritable, tout en cultivant un
-            bien-être durable. Chaque jour, je puise mon inspiration dans les
-            transformations que j'observe chez mes clients. Leur courage, leur
-            détermination et leur volonté de changement sont pour moi une source
-            de motivation inépuisable.
+            de vous guider à travers les tempêtes de la vie, de vous fournir{" "}
+            <strong className={styles.Souligne}>les outils nécessaires</strong>{" "}
+            pour devenir la meilleure version de vous-même et de vous
+            reconnecter à votre essence véritable, tout en cultivant un{" "}
+            <strong className={styles.Souligne}>bien-être durable</strong>.
+            Chaque jour, je puise mon inspiration dans les transformations que
+            j'observe chez mes clients. Leur courage, leur détermination et leur
+            volonté de changement sont pour moi une source de motivation
+            inépuisable.
           </p>
         </div>
       </div>

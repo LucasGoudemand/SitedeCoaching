@@ -14,9 +14,9 @@ export default function containerOffres(props) {
           <Offre
             Title="Hypnose Ericksonienne"
             Price="70€"
-            Value1="Méthode novatrice et personnalisée"
-            Value2="Résolution des problèmes à la source "
-            Value3="Accompagnement expert"
+            Value1="Etat de conscience modifié"
+            Value2="Mobilisation des resources"
+            Value3="Résolution des problémes à la source"
             Value4="Complémentarité de l'hypnose éricksonienne et de la PNL"
           />
         </div>
@@ -25,16 +25,16 @@ export default function containerOffres(props) {
           <Offre
             Title="Programmation Neuro-Linguistique"
             Price="70€"
-            Value1="Déverrouillez votre potentiel"
+            Value1="Transformation des obstacles en opportunités "
             Value2="Changements positifs immédiats et durables"
-            Value3="Transformation des obstacles en opportunités "
-            Value4="Intégration pratique dans votre vie quotidienne"
+            Value3="Intégration des changements souhaités"
+            Value4="Mise en pratique quotidienne"
           />
         </div>
         <div className={styles.containerOffre3}>
           <div className={styles.containerOffre3Background}></div>
           <Offre
-            Title="Pack 5 séances  20% de Reduction"
+            Title="Pack 5 séances 20% de Reduction"
             Price="280€"
             Value1="Approfondissement des résultats"
             Value2="Progression continue"

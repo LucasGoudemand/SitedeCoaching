@@ -17,7 +17,7 @@ export default function Footer() {
           <Link href="https://www.instagram.com/openskillsrh/">Instagram</Link>
         </li>
         <li>
-          <Link href="#">Me Contacter</Link>
+          <a href="/contact">Me Contacter</a>
         </li>
       </ul>
     </>

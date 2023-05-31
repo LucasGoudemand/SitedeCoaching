@@ -5,10 +5,17 @@
   max-width: 20%;
   border-radius: 25px;
   padding: 20px;
+  justify-content: space-between;
 }
 .containerStars span {
   color: #fb9a08;
   fill: aqua;
+}
+.nomAvis {
+  font-weight: 700;
+}
+.textAvis {
+  font-size: 15px;
 }
 @media all and (max-width: 1000px) and (min-width: 700px) {
   .containerOfOneAvis {

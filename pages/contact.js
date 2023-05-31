@@ -28,7 +28,7 @@ export default function Contact() {
               }
             ></Button>
             <p>OU</p>
-            <h2>Laissez moi un méssage</h2>
+            <h2>Laissez moi un message</h2>
           </div>
         </section>
         <footer></footer>
