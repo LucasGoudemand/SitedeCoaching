@@ -6,7 +6,7 @@ export default function containerApropos() {
     <>
       <div className={styles.containerApropos} id="AproposAnchor">
         <Image
-          src="/zenimage.png"
+          src="/imagezen.png"
           alt="Photo d'illustration"
           className={styles.classImage}
           width={600}

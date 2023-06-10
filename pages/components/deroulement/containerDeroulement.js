@@ -16,7 +16,7 @@ export default function containerDeroulement() {
             ensemble la méthode la plus adaptée pour atteindre vos objectifs.
           </li>
           <li>
-            <strong>Hypnose Ericksonienne </strong>: je vous guide vers une
+            <strong>Hypnose Ericksonienne </strong>: Je vous guide vers une
             relaxation profonde en utilisant des techniques de respiration et de
             visualisation, créant un état propice au travail thérapeutique.
           </li>

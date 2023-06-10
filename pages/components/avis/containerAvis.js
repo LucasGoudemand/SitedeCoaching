@@ -36,6 +36,10 @@ export default function containerAvis(props) {
             AvisText="Grâce aux séances d'hypnose je me sens plus joyeuse et apaisée dans ma vie.
             Les séances font du bien, et m'ont fait prendre conscience de beaucoup de choses."
           />
+          <Avis
+            Name="Myriam"
+            AvisText="Marine est une hypnothérapeute et une coach extrêmement bienveillante, à l'écoute et efficace. Elle analyse finement nos besoins et propose des actions utiles. En ce qui me concerne j'ai obtenu des résultats bluffants, je suis trés satisfaite. Je ne peux que vivement la recommander. Elle est d'une aide précieuse."
+          />
         </div>
       </div>
     </>

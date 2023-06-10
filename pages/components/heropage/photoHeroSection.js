@@ -15,15 +15,15 @@ export default function PhotoHeroSection() {
         />
         <div className={styles.containerTag1}>
           <img className={styles.Img} src="/mains.png" alt="Image du tag" />
-          Coaching Neurolinguistique
+          Coaching PNL
         </div>
         <div className={styles.containerTag2}>
           <img className={styles.Img} src="/monsieur.png" alt="Image du tag" />
-          Hypnose ericksonienne
+          Hypnose Ericksonienne
         </div>
         <div className={styles.containerTag3}>
           <img className={styles.Img} src="/tete.png" alt="Image du tag" />
-          Diplome reconnu
+          Certifications
         </div>
       </div>
     </>
